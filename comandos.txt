@@ -1,0 +1,8 @@
+
+
+mkdir projeto_perguntas
+
+
+cd projeto_perguntas
+
+flutter create projeto_perguntas
